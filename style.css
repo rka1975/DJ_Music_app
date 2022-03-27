@@ -1,0 +1,44 @@
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    font-style: normal;
+    font-size: 30px;
+    color: antiquewhite;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.disk_speed_img
+{
+    width:200px;
+    border-radius: 100px;
+
+}
+
+.div_speed
+{
+    float:left;
+}
+
+.div_volume
+{
+    float:right;
+}
+
+.btn-success
+{
+    margin: 20px;
+    font-size: 30px;
+}
+
+canvas
+{
+    border: solid navy 9px;
+    border-radius: 30px;
+
+}
